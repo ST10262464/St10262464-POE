@@ -45,6 +45,7 @@ Farmer Portal:
 - Database: SQL Server
 
 #### NB
+- The code will be found in the AgriConnectWebApp folder
 - Please note use email: sp@mail.com and password: pass1 to login as a farmer
 - Please note use email: alice@mail.com and password: passA to login as an employee
 - Click on I am a Farmer to see Farmer Dashboard and add products
