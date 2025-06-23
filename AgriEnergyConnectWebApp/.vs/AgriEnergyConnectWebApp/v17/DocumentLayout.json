@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\employee\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\employee\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\farmer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\farmer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\employee\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\employee\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\farmer\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\farmer\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|c:\\users\\spraw\\onedrive\\desktop\\agrienergyconnectwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29B0D7FF-3BF4-4B4E-9DB6-4A017EEE0897}|AgriEnergyConnectWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:34:13.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:19:06.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T14:48:48.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:59:02.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Dashboard.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:27:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:24:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddFarmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Employee\\AddFarmer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\AddFarmer.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Employee\\AddFarmer.cshtml",
+              "RelativeToolTip": "Views\\Employee\\AddFarmer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:27:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAGADAAAAAAAAAAAAAGsDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-13T18:42:19.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "Controllers\\FarmerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:18:14.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:08:26.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Farmer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Farmer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Farmer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:25:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:24:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Models\\Farmer.cs",
+              "RelativeToolTip": "Models\\Farmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:19:56.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:22:19.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Employee\\ViewProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\ViewProducts.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Employee\\ViewProducts.cshtml",
+              "RelativeToolTip": "Views\\Employee\\ViewProducts.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:26:43.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Farmer\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmer\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Farmer\\AddProduct.cshtml",
+              "RelativeToolTip": "Views\\Farmer\\AddProduct.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:25:33.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:19:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:35:53.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:32:50.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-14T12:16:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T15:36:52.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

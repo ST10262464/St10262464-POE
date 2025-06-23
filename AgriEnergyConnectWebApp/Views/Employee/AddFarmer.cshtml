@@ -1,0 +1,60 @@
+﻿@model Farmer
+@{
+    ViewBag.Title = "Add New Farmer";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Add New Farmer - AgriEnergyConnectWebApp</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AgriEnergyConnectWebApp.styles.css" asp-append-version="true" />
+</head>
+
+
+<!--
+  Adapted from W3Schools
+  URL: https://www.w3schools.com/howto/howto_css_login_form.asp
+-->
+
+<body>
+
+    <div class="add-farmer-container">
+        <h2 class="add-farmer-title">Add New Farmer</h2>
+
+        <form method="post" class="add-farmer-form">
+            <div class="form-group">
+                <label for="FullName" class="form-label">Full Name</label>
+                <input type="text" id="FullName" name="FullName" class="form-input" placeholder="Enter full name" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Email" class="form-label">Email</label>
+                <input type="email" id="Email" name="Email" class="form-input" placeholder="Enter email address" required />
+            </div>
+
+            <div class="form-group">
+                <label for="PasswordHash" class="form-label">Password</label>
+                <input type="password" id="PasswordHash" name="PasswordHash" class="form-input" placeholder="Create password" required />
+            </div>
+
+            <button type="submit" class="form-submit-btn">Save Farmer</button>
+        </form>
+    </div>
+
+    <div class="back-button-container">
+        <a href="@Url.Action("Dashboard", "Employee")" class="form-submit-btn">← Back to Dashboard</a>
+    </div>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+﻿@model Product
+@{
+    ViewBag.Title = "Add Product";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Add Product - AgriEnergyConnectWebApp</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AgriEnergyConnectWebApp.styles.css" asp-append-version="true" />
+</head>
+
+<!--
+  Adapted from W3Schools
+  URL: https://www.w3schools.com/howto/howto_css_login_form.asp
+-->
+
+<body>
+
+    <div class="add-product-container">
+        <h2 class="add-product-title">Add New Product</h2>
+
+        <form method="post" class="add-product-form">
+            <div class="form-group">
+                <label for="Name" class="form-label">Product Name</label>
+                <input type="text" id="Name" name="Name" class="form-input" placeholder="Enter product name" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Category" class="form-label">Category</label>
+                <input type="text" id="Category" name="Category" class="form-input" placeholder="Enter product category" required />
+            </div>
+
+            <div class="form-group">
+                <label for="ProductionDate" class="form-label">Production Date</label>
+                <input type="date" id="ProductionDate" name="ProductionDate" class="form-input" required />
+            </div>
+
+            <button type="submit" class="form-submit-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 8px;">
+                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                    <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                </svg>
+                Save Product
+            </button>
+        </form>
+    </div>
+
+    <div class="back-button-container">
+        <a href="@Url.Action("Index", "Farmer")" class="form-submit-btn">← Back to Farmer</a>
+    </div>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

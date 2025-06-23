@@ -1,0 +1,71 @@
+﻿@model List<Product>
+@{
+    ViewBag.Title = "Filtered Products";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Filtered Products - AgriEnergyConnectWebApp</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AgriEnergyConnectWebApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <div class="product-filter-container">
+        <div class="filter-header">
+            <h2>Filter Products</h2>
+        </div>
+
+        <form method="get" class="filter-form">
+            <input type="hidden" name="farmerId" value="@ViewBag.FarmerId" />
+            <input type="text" name="category" class="filter-input" placeholder="Category" value="@Context.Request.Query["category"]" />
+            <input type="date" name="from" class="filter-input" value="@Context.Request.Query["from"]" />
+            <input type="date" name="to" class="filter-input" value="@Context.Request.Query["to"]" />
+            <button type="submit" class="filter-btn">Apply Filters</button>
+        </form>
+
+
+        <!--
+          Adapted from StackOverflow, author: user3559349
+          URL: https://stackoverflow.com/questions/34013161/razor-using-foreach-insert-html-every-nth-item
+        -->
+
+
+        <table class="products-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Production Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.Name</td>
+                        <td>@p.Category</td>
+                        <td>@p.ProductionDate.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="back-button-container">
+        <a href="@Url.Action("Dashboard", "Employee")" class="form-submit-btn">← Back to Dashboard</a>
+    </div>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

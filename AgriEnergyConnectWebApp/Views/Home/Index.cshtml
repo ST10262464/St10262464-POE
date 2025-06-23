@@ -1,0 +1,223 @@
+﻿@{
+    ViewData["Title"] = "AgriEnergyConnect | Sustainable Farming Solutions";
+    Layout = null;
+}
+
+
+<!--
+   Adapted from W3Schools
+   URL: https://www.w3schools.com/howto/howto_css_cards.asp
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .mission-section {
+            background: #f8f9fa;
+            padding: 5rem 0;
+        }
+
+        .section-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .mission-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .mission-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+            border: 1px solid rgba(52, 152, 219, 0.1);
+        }
+
+            .mission-card::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 4px;
+                background: linear-gradient(90deg, #27ae60, #3498db);
+                transform: scaleX(0);
+                transform-origin: left;
+                transition: transform 0.4s ease;
+            }
+
+            .mission-card:hover {
+                transform: translateY(-10px);
+                box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+                border-color: rgba(52, 152, 219, 0.3);
+            }
+
+                .mission-card:hover::before {
+                    transform: scaleX(1);
+                }
+
+            .mission-card h3 {
+                color: #3498db;
+                margin-bottom: 1rem;
+                transition: color 0.3s ease;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            }
+
+            .mission-card:hover h3 {
+                color: #2c3e50;
+            }
+
+            .mission-card i {
+                font-size: 1.5rem;
+                transition: all 0.3s ease;
+            }
+
+            .mission-card:hover i {
+                transform: scale(1.2);
+                color: #27ae60;
+            }
+
+            .mission-card p {
+                margin-bottom: 0;
+                color: #34495e;
+                transition: color 0.3s ease;
+            }
+
+            .mission-card:hover p {
+                color: #2c3e50;
+            }
+    </style>
+
+
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="section-container">
+            <h1 class="hero-title">Connecting Farmers with Sustainable Energy Solutions</h1>
+            <p class="hero-subtitle">Empowering agricultural communities through innovative technology and renewable energy partnerships</p>
+            <br />
+            <br />
+            <div class="cta-buttons">
+                <a href="/Farmer/Index" class="btn btn-primary">
+                    <i class="fas fa-tractor"></i> I'm a Farmer
+                </a>
+                <a href="/Employee/Dashboard" class="btn btn-secondary">
+                    <i class="fas fa-user-tie"></i> I'm an Employee
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats-section">
+        <div class="section-container">
+            <h2 class="section-title">Our Impact</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value">1,250+</div>
+                    <div class="stat-label">Farmers Connected</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">85%</div>
+                    <div class="stat-label">Average Energy Savings</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">24/7</div>
+                    <div class="stat-label">Dedicated Support</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section class="about-section">
+        <div class="section-container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>About AgriEnergyConnect</h2>
+                    <p>Founded in 2025, AgriEnergyConnect bridges the gap between agricultural producers and renewable energy solutions. Our platform connects farmers with the tools and resources they need to transition to sustainable energy practices while maintaining productivity.</p>
+                    <p>We partner with energy providers, government agencies, and agricultural experts to deliver customized solutions for farms of all sizes across South Africa.</p>
+                    <p>Our team combines decades of experience in agriculture, renewable energy, and technology to create innovative solutions that benefit both farmers and the environment.</p>
+                </div>
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" alt="Farm with solar panels">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="mission-section">
+        <div class="section-container">
+            <h2 class="section-title">Our Mission</h2>
+            <div class="mission-cards">
+                <div class="mission-card">
+                    <h3><i class="fas fa-leaf"></i><span>Sustainability</span></h3>
+                    <p>Reduce agriculture's carbon footprint by facilitating the adoption of clean energy technologies without compromising productivity.</p>
+                </div>
+                <div class="mission-card">
+                    <h3><i class="fas fa-hand-holding-usd"></i><span>Affordability</span></h3>
+                    <p>Make renewable energy accessible through financing options, grants, and energy-saving programs tailored for farmers.</p>
+                </div>
+                <div class="mission-card">
+                    <h3><i class="fas fa-network-wired"></i><span>Connection</span></h3>
+                    <p>Create a network where farmers can share experiences and best practices for sustainable agriculture.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-container">
+            <div class="footer-col">
+                <h3>AgriEnergyConnect</h3>
+                <p>Helping farmers harness the power of renewable energy since 2025.</p>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h4>Contact</h4>
+                <p><i class="fas fa-envelope"></i> info@agrienergyconnect.com</p>
+                <p><i class="fas fa-phone"></i> +27 80 555-1234</p>
+                <p><i class="fas fa-map-marker-alt"></i> 123 Green Energy Way, Midrand, SA</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2025 AgriEnergyConnect. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
