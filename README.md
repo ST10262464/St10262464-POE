@@ -53,9 +53,9 @@ Farmer Portal:
 
 
 ## Part 2 changes:
-•	When logging in as a farmer you cannot view employee dashboard and vice versa, changes have been made to respective controllers to ensure this by setting a user role.
-•	An access denied screen will show up if you navigate to employee dashboard as a farmer and vice versa
-•	Prepopulated data in database has been changed to make it easier for logins
-•	All UPDATE commands have been taken out of database file
-•	The project overview in the README file is much more detailed now
-•	System requirements have been added to the README file
+- When logging in as a farmer you cannot view employee dashboard and vice versa, changes have been made to respective controllers to ensure this by setting a user role.
+-	An access denied screen will show up if you navigate to employee dashboard as a farmer and vice versa
+-	Prepopulated data in database has been changed to make it easier for logins
+-	All UPDATE commands have been taken out of database file
+-	The project overview in the README file is much more detailed now
+-	System requirements have been added to the README file
