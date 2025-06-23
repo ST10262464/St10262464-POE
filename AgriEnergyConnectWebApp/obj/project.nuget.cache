@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxmvuBwGTkKbOQSsTWlRlHn61mORc053M99vj8Mc5/amoqc07E+Vo3P7yBmaMqTTSLvG6lMls1nwIZIGSYqVcA==",
+  "dgSpecHash": "4/l/b3q8UfQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\spraw\\OneDrive\\Desktop\\AgriEnergyConnectWebApp\\AgriEnergyConnectWebApp.csproj",
+  "projectFilePath": "C:\\Users\\spraw\\OneDrive\\Desktop\\St10262464-POE\\AgriEnergyConnectWebApp\\AgriEnergyConnectWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spraw\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\spraw\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
