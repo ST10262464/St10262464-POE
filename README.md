@@ -50,9 +50,10 @@ Farmer Portal:
 - Click on I am a Farmer to see Farmer Dashboard and add products
 - Click on I am an Employee to see Employee Dashboard to view farmer profiles and filter their specific products as well as add new farmer profiles
 - Database is in the AECdb.sql file
+- You will be able to find the app running in the "As a Farmer" and " As an Employee" videos which show what the farmers and employees see
 
 
-## Part 2 changes:
+### Part 2 changes:
 - When logging in as a farmer you cannot view employee dashboard and vice versa, changes have been made to respective controllers to ensure this by setting a user role.
 -	An access denied screen will show up if you navigate to employee dashboard as a farmer and vice versa
 -	Prepopulated data in database has been changed to make it easier for logins
